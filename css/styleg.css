@@ -1,0 +1,235 @@
+body {
+    background-image: url(/img/148def99a5de5190cf1e9de1e202961a.jpg)
+}
+
+nav {
+    background-image: url(/img/dota-v1.jpg);
+    display: flex;
+    top: 0;
+    left: 0;
+    flex-direction: row;
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    padding-bottom: 0;
+    list-style-type: none;
+
+}
+
+#Home {
+    position: relative;
+    top: 40%;
+    width: 50%;
+    height: 70px;
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+    text-decoration: none;
+    color: aliceblue;
+
+}
+
+#Heroes {
+    position: relative;
+    top: 40%;
+    width: 50%;
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+    text-decoration: none;
+    color: aliceblue;
+    height: 70px;
+}
+
+#Rate {
+    position: relative;
+    top: 40%;
+    width: 50%;
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+    text-decoration: none;
+    color: aliceblue;
+    height: 70px;
+}
+
+#Contact {
+    position: relative;
+    top: 40%;
+    width: 50%;
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+    text-decoration: none;
+    color: aliceblue;
+    height: 70px;
+}
+
+#logo {
+    width: 150px;
+    position: relative;
+    top: 20px;
+    
+    
+}
+
+.about {
+    left: -10px;
+    width: 110%;
+    height: 500px;
+    position: relative;
+    top: 62px;
+    
+    
+}
+
+#ahmed {
+    color: white;
+    left: 80px;
+    width: 100%;
+    font-size: 40px;
+    position: relative;
+    top: 30px;
+}
+
+div.img1 {
+    display: flex;
+    top: 200px;
+    left: 350px;
+    flex-direction: row;
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    padding-bottom: 0;
+    list-style-type: none;
+    
+}
+
+div.img2 {
+    display: flex;
+    top: 200px;
+    left: 700px;
+    flex-direction: row;
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    padding-bottom: 0;
+    list-style-type: none;
+}
+
+div.img3 {
+    display: flex;
+    top: 200px;
+    left: 1050px;
+    flex-direction: row;
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    padding-bottom: 0;
+    list-style-type: none;
+}
+
+div.img4 {
+    display: flex;
+    top: 370px;
+    left: 350px;
+    flex-direction: row;
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    padding-bottom: 0;
+    list-style-type: none;
+}
+
+div.img5 {
+    display: flex;
+    top: 370px;
+    left: 700px;
+    flex-direction: row;
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    padding-bottom: 0;
+    list-style-type: none;
+}
+
+div.img6 {
+    display: flex;
+    top: 370px;
+    left: 1050px;
+    flex-direction: row;
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    padding-bottom: 0;
+    list-style-type: none;
+}
+
+div.img7 {
+    display: flex;
+    top: 550px;
+    left: 350px;
+    flex-direction: row;
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    padding-bottom: 0;
+    list-style-type: none;
+}
+
+div.img8 {
+    display: flex;
+    top: 550px;
+    left: 700px;
+    flex-direction: row;
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    padding-bottom: 0;
+    list-style-type: none;
+}
+
+div.img9 {
+    display: flex;
+    top: 550px;
+    left: 1050px;
+    flex-direction: row;
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    padding-bottom: 0;
+    list-style-type: none;
+}
+
+.imgsize {
+    width: 100px;
+    height: 100px;
+}
+
+.pos {
+    color: aliceblue;
+    position: relative;
+    top: 80px;
+    left: -75px;
+}
+
+.pos2 {
+    color: aliceblue;
+    position: relative;
+    top: 100px;
+    left: -75px;
+}
+
+.pos3 {
+    color: aliceblue;
+    position: relative;
+    top: 100px;
+    left: -80px;
+}
+
+.pos4 {
+    color: aliceblue;
+    position: relative;
+    top: 100px;
+    left: -95px;
+}
