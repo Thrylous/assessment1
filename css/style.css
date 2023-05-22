@@ -4,11 +4,11 @@
 
 body {
     
-    background-image: url(/img/148def99a5de5190cf1e9de1e202961a.jpg)
+    background-image: url(../img/148def99a5de5190cf1e9de1e202961a.jpg)
 }
 
 nav {
-    background-image: url(/img/dota-v1.jpg);
+    background-image: url(../img/dota-v1.jpg);
     display: flex;
     top: 0;
     left: 0;
